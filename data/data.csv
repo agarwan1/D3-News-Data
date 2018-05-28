@@ -1,1 +1,52 @@
-id,state,abbr,poverty,healthcare,1,AL,Alabama,19.3,13.9,2,AK,Alaska,11.2,15,3,AZ,Arizona,18.2,14.4,4,AR,Arkansas,18.9,16.3,5,CA,California,16.4,14.8,6,CO,Colorado,12,12.8,7,CT,Connecticut,10.8,8.7,8,DE,Delaware,12.5,8.7,9,DC,District of Columbia,17.7,8.3,10,FL,Florida,16.5,17.6,11,GA,Georgia,18.3,20.9,12,HI,Hawaii,11.4,8.1,13,ID,Idaho,14.8,16.5,14,IL,Illinois,14.4,11.9,15,IN,Indiana,15.2,14.8,16,IA,Iowa,12.2,7.7,17,KS,Kansas,13.6,14.5,18,KY,Kentucky,19.1,10,19,LA,Louisiana,19.8,18.7,20,ME,Maine,14.1,11,21,MD,Maryland,10.1,9.2,22,MA,Massachusetts,11.6,4.6,23,MI,Michigan,16.2,10.3,24,MN,Minnesota,11.5,7.3,25,MS,Mississippi,21.5,18.8,26,MO,Missouri,15.5,12.9,27,MT,Montana,15.4,12.9,28,NE,Nebraska,12.4,12.4,29,NV,Nevada,15.2,17.1,30,NH,New Hampshire,9.2,11.4,31,NJ,New Jersey,11.1,12.5,32,NM,New Mexico,21.3,15.4,33,NY,New York,15.9,12.3,34,NC,North Carolina,17.2,16.1,35,ND,North Dakota,11.5,8.8,36,OH,Ohio,15.8,10.2,37,OK,Oklahoma,16.6,13.9,38,OR,Oregon,16.6,11,39,PA,Pennsylvania,13.6,10.1,40,RI,Rhode Island,14.3,8,41,SC,South Carolina,18,17.1,42,SD,South Dakota,14.2,9.9,43,TN,Tennessee,18.3,14.2,44,TX,Texas,17.2,24.9,45,UT,Utah,11.7,13.9,46,VT,Vermont,12.2,6.7,47,VA,Virginia,11.8,13.1,48,WA,Washington,13.2,10.7,49,WV,West Virginia,18.3,10.1,50,WI,Wisconsin,13.2,8.5,51,WY,Wyoming,11.2,15.1,
+id,abbr,state,poverty,healthcare
+1,AL,Alabama,19.3,13.9
+2,AK,Alaska,11.2,15
+3,AZ,Arizona,18.2,14.4
+4,AR,Arkansas,18.9,16.3
+5,CA,California,16.4,14.8
+6,CO,Colorado,12,12.8
+7,CT,Connecticut,10.8,8.7
+8,DE,Delaware,12.5,8.7
+9,DC,District of Columbia,17.7,8.3
+10,FL,Florida,16.5,17.6
+11,GA,Georgia,18.3,20.9
+12,HI,Hawaii,11.4,8.1
+13,ID,Idaho,14.8,16.5
+14,IL,Illinois,14.4,11.9
+15,IN,Indiana,15.2,14.8
+16,IA,Iowa,12.2,7.7
+17,KS,Kansas,13.6,14.5
+18,KY,Kentucky,19.1,10
+19,LA,Louisiana,19.8,18.7
+20,ME,Maine,14.1,11
+21,MD,Maryland,10.1,9.2
+22,MA,Massachusetts,11.6,4.6
+23,MI,Michigan,16.2,10.3
+24,MN,Minnesota,11.5,7.3
+25,MS,Mississippi,21.5,18.8
+26,MO,Missouri,15.5,12.9
+27,MT,Montana,15.4,12.9
+28,NE,Nebraska,12.4,12.4
+29,NV,Nevada,15.2,17.1
+30,NH,New Hampshire,9.2,11.4
+31,NJ,New Jersey,11.1,12.5
+32,NM,New Mexico,21.3,15.4
+33,NY,New York,15.9,12.3
+34,NC,North Carolina,17.2,16.1
+35,ND,North Dakota,11.5,8.8
+36,OH,Ohio,15.8,10.2
+37,OK,Oklahoma,16.6,13.9
+38,OR,Oregon,16.6,11
+39,PA,Pennsylvania,13.6,10.1
+40,RI,Rhode Island,14.3,8
+41,SC,South Carolina,18,17.1
+42,SD,South Dakota,14.2,9.9
+43,TN,Tennessee,18.3,14.2
+44,TX,Texas,17.2,24.9
+45,UT,Utah,11.7,13.9
+46,VT,Vermont,12.2,6.7
+47,VA,Virginia,11.8,13.1
+48,WA,Washington,13.2,10.7
+49,WV,West Virginia,18.3,10.1
+50,WI,Wisconsin,13.2,8.5
+51,WY,Wyoming,11.2,15.1

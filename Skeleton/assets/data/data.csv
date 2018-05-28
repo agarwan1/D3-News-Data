@@ -1,0 +1,52 @@
+id,state,abbr,poverty,healthcare,obesity
+1,Alabama,AL,19.3,13.9,33.5
+2,Alaska,AK,11.2,15,29.7
+3,Arizona,AZ,18.2,14.4,28.9
+4,Arkansas,AR,18.9,16.3,35.9
+5,California,CA,16.4,14.8,24.7
+6,Colorado,CO,12,12.8,21.3
+7,Connecticut,CT,10.8,8.7,26.3
+8,Delaware,DE,12.5,8.7,30.7
+9,District of Columbia,DC,17.7,8.3,21.7
+10,Florida,FL,16.5,17.6,26.2
+11,Georgia,GA,18.3,20.9,30.5
+12,Hawaii,HI,11.4,8.1,22.1
+13,Idaho,ID,14.8,16.5,28.9
+14,Illinois,IL,14.4,11.9,29.3
+15,Indiana,IN,15.2,14.8,32.7
+16,Iowa,IA,12.2,7.7,30.9
+17,Kansas,KS,13.6,14.5,31.3
+18,Kentucky,KY,19.1,10,31.6
+19,Louisiana,LA,19.8,18.7,34.9
+20,Maine,ME,14.1,11,28.2
+21,Maryland,MD,10.1,9.2,29.6
+22,Massachusetts,MA,11.6,4.6,23.3
+23,Michigan,MI,16.2,10.3,30.7
+24,Minnesota,MN,11.5,7.3,27.6
+25,Mississippi,MS,21.5,18.8,35.5
+26,Missouri,MO,15.5,12.9,30.2
+27,Montana,MT,15.4,12.9,26.4
+28,Nebraska,NE,12.4,12.4,30.2
+29,Nevada,NV,15.2,17.1,27.7
+30,New Hampshire,NH,9.2,11.4,27.4
+31,New Jersey,NJ,11.1,12.5,26.9
+32,New Mexico,NM,21.3,15.4,28.4
+33,New York,NY,15.9,12.3,27
+34,North Carolina,NC,17.2,16.1,29.7
+35,North Dakota,ND,11.5,8.8,32.2
+36,Ohio,OH,15.8,10.2,32.6
+37,Oklahoma,OK,16.6,13.9,33
+38,Oregon,OR,16.6,11,27.9
+39,Pennsylvania,PA,13.6,10.1,30.2
+40,Rhode Island,RI,14.3,8,27
+41,South Carolina,SC,18,17.1,32.1
+42,South Dakota,SD,14.2,9.9,29.8
+43,Tennessee,TN,18.3,14.2,31.2
+44,Texas,TX,17.2,24.9,31.9
+45,Utah,UT,11.7,13.9,25.7
+46,Vermont,VT,12.2,6.7,24.8
+47,Virginia,VA,11.8,13.1,28.5
+48,Washington,WA,13.2,10.7,27.3
+49,West Virginia,WV,18.3,10.1,35.7
+50,Wisconsin,WI,13.2,8.5,31.2
+51,Wyoming,WY,11.2,15.1,29.5
