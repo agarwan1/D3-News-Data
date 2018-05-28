@@ -1,14 +1,24 @@
 // D3 Scatterplot Assignment
 
-// Students:
-// =========
 // Follow your written instructions and create a scatter plot with D3.js.
 // d3.csv("../../../data/data.csv", function (error, povData) {
-// data
 alert("Hi!")
-//var dataArray = [1, 2, 3];
-//var dataCategories = ["one", "two", "three"];
+d3.select(window).on("resize", handleResize);
 
+// When the browser loads, loadChart() is called
+loadChart();
+
+function handleResize() {
+  var svgArea = d3.select("svg");
+
+  // If there is already an svg container on the page, remove it and reload the chart
+  if (!svgArea.empty()) {
+    svgArea.remove();
+    loadChart();
+  }
+}
+
+function loadChart() {
 // svg container
 var svgHeight = 960; //400 960 1024
 var svgWidth = 768; //500 768
@@ -195,12 +205,13 @@ d3.csv("./assets/data/data.csv", function(error, povData) {
    .attr("x", 0 - (chartHeight / 2))
    .attr("dy", "1em")
    .attr("class", "axisText")
-   .text("Lacks Healthcare");
+   .text("Lacks Healthcare (%)");
 
  chartGroup.append("text")
    .attr("transform", `translate(${chartWidth/2}, ${chartHeight + margin.top + 30})`)
    .attr("class", "axisText")
-   .text("In Poverty");
+   .text("In Poverty (%)");
 
-});
-//end of d3.csv
+});  //end of d3.csv
+
+} //end of loadChart. 
