@@ -2,7 +2,7 @@
 
 // Follow your written instructions and create a scatter plot with D3.js.
 // d3.csv("../../../data/data.csv", function (error, povData) {
-alert("Hi!")
+//alert("Hi!")
 d3.select(window).on("resize", handleResize);
 // id,state,abbr,poverty,healthcare,obesity,medianAge
 // When the browser loads, loadChart() is called
